@@ -1,0 +1,253 @@
+Description,Category
+rice,Groceries
+basmati rice,Groceries
+india gate basmati rice,Groceries
+daawat basmati rice,Groceries
+sona masoori rice,Groceries
+wheat flour,Groceries
+aashirvaad atta,Groceries
+fortune atta,Groceries
+maida,Groceries
+rava,Groceries
+toor dal,Groceries
+moong dal,Groceries
+chana dal,Groceries
+tata salt,Groceries
+sugar,Groceries
+salt,Groceries
+sunflower oil,Groceries
+fortune sunflower oil,Groceries
+groundnut oil,Groceries
+mustard oil,Groceries
+turmeric powder,Groceries
+everest turmeric powder,Groceries
+red chilli powder,Groceries
+everest chilli powder,Groceries
+coriander powder,Groceries
+garam masala,Groceries
+tea powder,Groceries
+tata tea,Groceries
+brooke bond tea,Groceries
+coffee powder,Groceries
+bru coffee,Groceries
+nescafe coffee,Groceries
+poha,Groceries
+suji,Groceries
+dry fruits,Groceries
+jeera,Groceries
+pepper powder,Groceries
+milk,Dairy
+amul milk,Dairy
+heritage milk,Dairy
+mother dairy milk,Dairy
+nandini milk,Dairy
+toned milk,Dairy
+full cream milk,Dairy
+curd,Dairy
+amul curd,Dairy
+yogurt,Dairy
+epigamia yogurt,Dairy
+buttermilk,Dairy
+amul buttermilk,Dairy
+paneer,Dairy
+amul paneer,Dairy
+cheese slices,Dairy
+amul cheese,Dairy
+britania cheese,Dairy
+butter,Dairy
+amul butter,Dairy
+ghee,Dairy
+amul ghee,Dairy
+cream,Dairy
+lassi,Dairy
+flavoured yogurt,Dairy
+milk packet,Dairy
+butter milk,Dairy
+processed cheese,Dairy
+pepsi,Beverages
+coke,Beverages
+coca cola,Beverages
+sprite,Beverages
+fanta,Beverages
+thumbs up,Beverages
+maaza,Beverages
+slice juice,Beverages
+real juice,Beverages
+tropicana juice,Beverages
+mixed fruit juice,Beverages
+orange juice,Beverages
+mineral water,Beverages
+bisleri water,Beverages
+kinley water,Beverages
+soda bottle,Beverages
+red bull,Beverages
+sting energy drink,Beverages
+soft drink,Beverages
+cold drink,Beverages
+drinking water,Beverages
+packaged juice,Beverages
+chips,Snacks
+lays chips,Snacks
+bingo chips,Snacks
+potato chips,Snacks
+banana chips,Snacks
+kurkure,Snacks
+haldiram namkeen,Snacks
+balaji wafers,Snacks
+namkeen,Snacks
+mixture snack,Snacks
+salted peanuts,Snacks
+biscuits,Snacks
+britannia biscuits,Snacks
+parle g biscuits,Snacks
+good day biscuits,Snacks
+cookies,Snacks
+cream biscuits,Snacks
+chocolate,Snacks
+cadbury dairy milk,Snacks
+wafer biscuits,Snacks
+snack pack,Snacks
+cracker biscuits,Snacks
+corn puffs,Snacks
+soap,Household Items
+lifebuoy soap,Household Items
+lux soap,Household Items
+dettol soap,Household Items
+detergent powder,Household Items
+surf excel detergent,Household Items
+ariel detergent,Household Items
+rin detergent,Household Items
+detergent bar,Household Items
+vim bar,Household Items
+dishwash liquid,Household Items
+vim liquid,Household Items
+floor cleaner,Household Items
+lizol floor cleaner,Household Items
+phenyl,Household Items
+toilet cleaner,Household Items
+harpic toilet cleaner,Household Items
+harpic cleaner,Household Items
+scrub pad,Household Items
+garbage bags,Household Items
+aluminium foil,Household Items
+cling wrap,Household Items
+mosquito coil,Household Items
+good knight coil,Household Items
+bucket cleaner,Household Items
+liquid cleaner,Household Items
+broom,Household Items
+shampoo,Personal Care
+clinic plus shampoo,Personal Care
+sunsilk shampoo,Personal Care
+dove shampoo,Personal Care
+hair oil,Personal Care
+parachute oil,Personal Care
+toothpaste,Personal Care
+colgate toothpaste,Personal Care
+pepsodent toothpaste,Personal Care
+toothbrush,Personal Care
+colgate toothbrush,Personal Care
+face wash,Personal Care
+ponds face wash,Personal Care
+body lotion,Personal Care
+fairness cream,Personal Care
+ponds cream,Personal Care
+deodorant,Personal Care
+nivea deo,Personal Care
+sanitary pads,Personal Care
+whisper sanitary pads,Personal Care
+baby powder,Personal Care
+johnsons baby powder,Personal Care
+hand wash,Personal Care
+dettol hand wash,Personal Care
+shaving cream,Personal Care
+gillette foam,Personal Care
+razor blades,Personal Care
+hair conditioner,Personal Care
+body wash,Personal Care
+ice cream,Frozen Foods
+amul ice cream,Frozen Foods
+kwality walls ice cream,Frozen Foods
+vanilla ice cream,Frozen Foods
+chocolate ice cream,Frozen Foods
+frozen peas,Frozen Foods
+safal frozen peas,Frozen Foods
+frozen corn,Frozen Foods
+frozen mixed vegetables,Frozen Foods
+frozen nuggets,Frozen Foods
+frozen fries,Frozen Foods
+frozen parotta,Frozen Foods
+frozen samosa,Frozen Foods
+frozen green peas,Frozen Foods
+frozen sweet corn,Frozen Foods
+bread,Bakery
+britannia bread,Bakery
+modern bread,Bakery
+brown bread,Bakery
+white bread,Bakery
+burger bun,Bakery
+pav bun,Bakery
+cake,Bakery
+rusk,Bakery
+britannia rusk,Bakery
+toast,Bakery
+muffin,Bakery
+cup cake,Bakery
+bakery bread,Bakery
+milk bread,Bakery
+jam bun,Bakery
+buy rice bags,Groceries
+received wheat flour from supplier,Groceries
+grocery stock of sugar,Groceries
+dal packet delivery,Groceries
+tea powder stock entry,Groceries
+aashirvaad atta stock,Groceries
+fortune oil carton,Groceries
+tata salt bags,Groceries
+milk crate delivery,Dairy
+received paneer stock,Dairy
+butter stock from dairy supplier,Dairy
+curd cups intake,Dairy
+cheese packet purchase,Dairy
+amul milk crate,Dairy
+mother dairy milk packet,Dairy
+soft drink crate,Beverages
+water bottle stock,Beverages
+juice carton delivery,Beverages
+cola bottles intake,Beverages
+energy drink cans,Beverages
+pepsi crate delivery,Beverages
+bisleri water carton,Beverages
+biscuits carton,Snacks
+chips box delivery,Snacks
+kurkure packets stock,Snacks
+namkeen bags purchase,Snacks
+cookies carton received,Snacks
+britannia biscuits box,Snacks
+parle g carton,Snacks
+detergent stock delivery,Household Items
+soap cartons intake,Household Items
+floor cleaner bottles,Household Items
+toilet cleaner stock,Household Items
+dishwash liquid purchase,Household Items
+harpic toilet cleaner box,Household Items
+surf excel packet,Household Items
+shampoo bottles received,Personal Care
+toothpaste stock,Personal Care
+face wash delivery,Personal Care
+deodorant cans intake,Personal Care
+hand wash stock entry,Personal Care
+colgate toothpaste box,Personal Care
+dettol hand wash bottle,Personal Care
+frozen peas packet,Frozen Foods
+ice cream box delivery,Frozen Foods
+frozen fries stock,Frozen Foods
+nuggets freezer stock,Frozen Foods
+corn frozen pack,Frozen Foods
+amul ice cream box,Frozen Foods
+bread tray delivery,Bakery
+cake stock received,Bakery
+bun packet intake,Bakery
+rusk boxes purchase,Bakery
+muffin stock entry,Bakery
+britannia bread crate,Bakery
